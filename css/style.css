@@ -13,6 +13,13 @@ body {
     cursor: pointer;
 }
 
+.specialP {
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
 .content {
     position: absolute;
     top: 25%;
