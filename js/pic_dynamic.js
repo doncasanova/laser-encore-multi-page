@@ -15,7 +15,7 @@ var imageModal = 0;
 
 function addImage() {
     for (i = 0; i < image.length; i++) {
-        $(".insertImagesHere").append(`<div id = "${image[i]}" class="imageContainer"><a href="#" class="" data-toggle="modal" data-target="#largeModal"><img class="imageStyle imageHover pointer"src= "${imagePath}${image[i]}" alt="${image[i]}"></a></div>`);
+        $(".insertImagesHere").append(`<div id = "${image[i]}" class=" col-6 imageContainer"><a href="#" class="" data-toggle="modal" data-target="#largeModal"><img class="imageStyle imageHover pointer"src= "${imagePath}${image[i]}" alt="${image[i]}"></a></div>`);
         var imageNumber = i;
 
     }
@@ -24,7 +24,7 @@ function addImage() {
 
 function addImage2() {
     for (i = 0; i < image2.length; i++) {
-        $(".insertImagesHere2").append(`<div id = "${image2[i]}" class="imageContainer"><a href="#" class="" data-toggle="modal" data-target="#largeModal"><img class="imageStyle imageHover pointer"src= "${imagePath}${image2[i]}" alt="${image2[i]}"></a></div>`);
+        $(".insertImagesHere2").append(`<div id = "${image2[i]}" class=" col-6 imageContainer"><a href="#" class="" data-toggle="modal" data-target="#largeModal"><img class="imageStyle imageHover pointer"src= "${imagePath}${image2[i]}" alt="${image2[i]}"></a></div>`);
         var imageNumber = i;
 
     }
