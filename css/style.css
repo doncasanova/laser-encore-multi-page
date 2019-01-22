@@ -19,6 +19,17 @@ body {
     
 }
 
+img.indexImage {
+    -webkit-transition: height 2s linear 1s; /* For Safari 3.1 to 6.0 */
+    transition: height 2s linear 1s;
+    -webkit-transition: width 2s linear 1s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s linear 1s;
+}
+
+    img.indexImage:hover {
+        padding: 30px
+    }
+
 .specialP {
     color: white;
     font-style: italic;
