@@ -13,6 +13,12 @@ body {
     cursor: pointer;
 }
 
+.testPadding {
+    padding: 0px !important;
+    margin: 0px !important
+    
+}
+
 .specialP {
     color: white;
     font-style: italic;
