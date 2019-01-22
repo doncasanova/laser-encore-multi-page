@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css"
+    "\\css",
+    "\\img",
+    "\\img\\images",
+    "\\img\\images\\Compressed"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\img\\images\\LaserEncore28.JPG",
   "PreviewInSolutionExplorer": false
 }
