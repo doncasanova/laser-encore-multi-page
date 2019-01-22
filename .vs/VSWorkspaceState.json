@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\img",
-    "\\img\\images",
-    "\\img\\images\\Compressed"
+    "\\img"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\css\\image-trans.css",
   "PreviewInSolutionExplorer": false
 }
