@@ -74,7 +74,7 @@ body {
 
 .indexImage {
     width: auto;
-    /*margin: 10px auto;*/
+    margin: 10px auto;
     max-width: 100%;
     max-height: 500px;
 }
@@ -197,5 +197,25 @@ body {
 
     100% {
         transform: translate(1px, -2px) rotate(-1deg);
+    }
+}
+
+.imageIndexFont {
+    font-size: 30px;
+}
+
+p.imageIndexFont {
+    font-size: 30px;
+}
+
+@media screen and (max-width: 600px) {
+    p.imageIndexFont {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    p.imageIndexFont {
+        font-size: 20px;
     }
 }
