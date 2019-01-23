@@ -1,9 +1,9 @@
 
 
-var video = ["Laserencore DemoReel.mp4"];
+var video = ["https://videos.files.wordpress.com/srpQjl0D/laserencore-demoreel_hd.mp4", "https://videos.files.wordpress.com/1b2gBcry/watertowerlasers_hd.mp4", "https://videos.files.wordpress.com/blSZCFGA/lightthenightlasershow_hd.mp4", "https://videos.files.wordpress.com/Et90H9lu/laserhitz2_hd.mp4"];
 
-const imagePath = "./videos/";
-
+const imagePath = "";
+//const imagePath = "./videos/";
 
 addVideo();
 
