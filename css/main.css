@@ -78,19 +78,13 @@ More Info: https://uideck.com/products/helium-ui-kit
     border-radius: 20px;
 }
 .specialM {
-    /*position:absolute;
-    top:50%;
-    height:50%;
-    width: 50%;*/
     color: white;
-    /*font-style: italic;*/
     font-size: 40px;
     background: rgba(0, 0, 0, 0.1);
     z-index: -1
 }
 .specialP {
     color: white;
-    /*font-style: italic;*/
     font-size: 20px;
     background: rgba(0, 0, 0, 0.1);
 }
@@ -101,15 +95,13 @@ More Info: https://uideck.com/products/helium-ui-kit
 }
 
 .aboutP {
-    position:absolute;
+    position: absolute;
     bottom: 10%;
     background: transparent;
     color: white;
-    /*font-style: italic;*/
     font-size: 30px;
     line-height: normal;
-    /*border-radius: 10px;*/
-    /*background: rgba(0, 0, 0, 0.75);*/
+    text-shadow: 2px 2px black;
 }
 .aboutText {
     

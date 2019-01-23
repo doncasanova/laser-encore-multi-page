@@ -64,31 +64,6 @@ img.indexImage {
     /*padding: 20px;*/
 }
 
-/*#myBtn, #myBtn2, #myBtn3 {
-    width: 200px;
-    font-size: 18px;
-    padding: 10px;
-    border: none;
-    background: #000;
-    color: #fff;
-    cursor: pointer;
-}
-
-    #myBtn:hover {
-        background: #ddd;
-        color: black;
-    }
-
-    #myBtn2:hover {
-        background: #ddd;
-        color: black;
-    }
-
-    #myBtn3:hover {
-        background: #ddd;
-        color: black;
-    }*/
-
 .indexImage {
     width: auto;
     margin: 10px auto;
@@ -101,17 +76,12 @@ img.indexImage {
     margin: 10px auto;
     max-width: 100%;
     max-height: 300px;
-    /*display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;*/
 }
 
 .imageStyle1 {
     width: auto;
     margin-left: auto;
     margin-right: auto;
-    /*max-width: 600px;*/
     display: block;
     max-height: 100%;
     border-style: solid;
@@ -120,33 +90,21 @@ img.indexImage {
 }
 
 .modalImageStyle {
-    /*width: 50%;*/
-    /margin: 10px auto;
+    margin: 10px auto;
     width: 100%;
-    height: 100%;
-    /*border-style: solid;
-    border-radius: 20px;
-    border-width: 1.5px;
-    border-color: white;*/
+    height: 100%
 }
 
 
 .imageContainer {
     width: auto;
-    /*margin: 10px auto;*/
     max-width: 100%;
     max-height: 300px;
-    /*border-style: solid;
-    border-radius: 20px;
-    border-width: 1.5px;
-    border-color: white;*/
 }
 
 .imageContainer3 {
     width: auto;
-    /*margin: 10px auto;*/
     max-width: 100%;
-    /*max-height: 300px;*/
 }
 
 .imageConBackground{
