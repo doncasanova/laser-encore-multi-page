@@ -209,7 +209,7 @@ p.imageIndexFont {
 .imageContainerIndex {
     width: auto;
     height: auto;
-    max-height: 500px;
+    max-height: 480px;
     overflow: hidden;
     margin: 0 !important
 }
@@ -217,4 +217,10 @@ p.imageIndexFont {
 .imageContainerIndex img {
     width: 100%;
     height: auto;
+}
+
+.imageContainer6 {
+    width: auto;
+    max-width: 100%;
+    max-height: 425px;
 }
