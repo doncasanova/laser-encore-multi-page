@@ -211,6 +211,7 @@ p.imageIndexFont {
     height: auto;
     max-height: 500px;
     overflow: hidden;
+    margin: 0 !important
 }
 
 .imageContainerIndex img {
