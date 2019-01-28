@@ -1,6 +1,6 @@
 
 
-var image = ["EDMlasers1.jpg", "EDMlasers2.jpg", "EDMlasers3.jpg", "EDMlasers4.jpg", "WaterScreen1.jpg", "SchweitzerLasers.jpg", "LaserBillboard.jpg"];
+var image = ["CATlasers.jpg", "IndoorBeams.jpg", "EDMlasers4.jpg", "WaterScreen1.jpg", "SchweitzerLasers.jpg", "LaserBillboard.jpg"];
 var image2 = ["LaserGuitar.jpg", "BalloonFestLasers1.jpg", "BalloonFestLasers2.jpg", "BalloonFestLasers3.jpg", "SnowLasers.jpg", "LaserEagle.jpg", "SpaceNeedleLasers.jpg"];
 const imagePath = "./img/images/";
 
