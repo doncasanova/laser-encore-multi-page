@@ -30,6 +30,11 @@ img.indexImage {
         padding: 30px
     }
 
+.removePadding {
+    padding: 0 !important;
+    /*margin: 0 !important*/
+}
+
 .specialP {
     color: white;
     font-style: italic;
