@@ -3,6 +3,7 @@
 var image = ["CATlasers.jpg", "IndoorBeams.jpg", "EDMlasers4.jpg", "WaterScreen1.jpg", "SchweitzerLasers.jpg", "LaserBillboard.jpg"];
 var image2 = ["LaserGuitar.jpg", "BalloonFestLasers1.jpg", "BalloonFestLasers2.jpg", "BalloonFestLasers3.jpg", "SnowLasers.jpg", "LaserEagle.jpg", "SpaceNeedleLasers.jpg"];
 var imageSales = ["clublasers2.jpg", "clublasers4.jpg", "clublasers1.jpg", "laserencore60.jpg", "Stinger11Watt.jpg", "Stinger11WattBack.jpg"];
+var imageConcert = ["LaserEncore8.jpg", "LaserEncore22.png"];
 const imagePath = "./img/images/";
 
 
@@ -10,6 +11,7 @@ addImage();
 addImage2();
 addImage3();
 addImageSales()
+addImageConcert()
 var imageNumber = 0;
 var imageModal = 0;
 
@@ -45,6 +47,15 @@ function addImage3() {
 function addImageSales() {
     for (i = 0; i < imageSales.length; i++) {
         $(".insertImagesSales").append(`<div id = "${imageSales[i]}" class=" col-4 testPadding" style="background-color:black;"><img class="imageStyle"src= "${imagePath}${imageSales[i]}" alt="${imageSales[i]}"></div>`);
+        var imageNumber = i;
+
+    }
+
+}
+
+function addImageConcert() {
+    for (i = 0; i < imageConcert.length; i++) {
+        $(".insertImagesConcert").append(`<div id = "${imageConcert[i]}" class=" imageContainer"><img class="imageStyle"src= "${imagePath}${imageConcert[i]}" alt="${imageConcert[i]}"></div>`);
         var imageNumber = i;
 
     }
