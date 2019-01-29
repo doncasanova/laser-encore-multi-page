@@ -4,8 +4,9 @@
     "\\css",
     "\\img",
     "\\img\\images",
-    "\\js"
+    "\\js",
+    "\\php"
   ],
-  "SelectedNode": "\\js\\pic_dynamic.js",
+  "SelectedNode": "\\css\\extras.css",
   "PreviewInSolutionExplorer": false
 }
