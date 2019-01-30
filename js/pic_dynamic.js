@@ -1,9 +1,9 @@
 
 
 var image = ["CATlasers.jpg", "IndoorBeams.jpg", "EDMlasers4.jpg", "WaterScreen1.jpg", "SchweitzerLasers.jpg", "LaserBillboard.jpg"];
-var image2 = ["LaserGuitar.jpg", "BalloonFestLasers1.jpg", "BalloonFestLasers2.jpg", "BalloonFestLasers3.jpg", "SnowLasers.jpg", "LaserEagle.jpg", "SpaceNeedleLasers.jpg"];
+var image2 = ["LaserGuitar.jpg", "BalloonFestLasers1.jpg", "BalloonFestLasers2.jpg", "SnowLasers.jpg", "LaserEagle.jpg", "SpaceNeedleLasers.jpg"];
 var imageSales = ["clublasers2.jpg", "clublasers4.jpg", "clublasers1.jpg", "laserencore60.jpg", "Stinger11Watt.jpg", "Stinger11WattBack.jpg"];
-var imageConcert = ["LaserEncore8.jpg", "LaserEncore22.png"];
+var imageConcert = ["LaserEncore8.jpg", "LaserEncore22.png", "EDCvegasLasers.jpg", "EDMlasers3.jpg", "LaserEncore68.jpg"];
 const imagePath = "./img/images/";
 
 
