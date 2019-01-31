@@ -77,8 +77,8 @@ img.indexImage {
 }
 
 .imageStyle {
-    width: auto;
-    /*margin: 10px auto;*/
+    /*width: auto;*/
+    margin:0;
     max-width: 100%;
     max-height: 300px;
 }
