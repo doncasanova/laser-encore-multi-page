@@ -18,8 +18,11 @@
 
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
-    .introLogo {
-        opacity: 0;
+   .introLogo {
+       opacity: 0;
+   }
+    .slider {
+        height: 300px;
     }
   .section-title {
     font-size: 26px;
