@@ -1,14 +1,6 @@
 
-
-
-
-
-
-
-
-
 $("#contactForm").validator().on("submit", function (event) {
-    console.log("hello");
+ 
     if (event.isDefaultPrevented()) {
         // handle the invalid form...
         formError();
@@ -25,7 +17,7 @@ function submitForm(){
     // Initiate Variables With Form Content
     var name = $("#name").val();
     var email = $("#email").val();
-    var msg_subject = $("#msg_subject").val();
+    var msg_subject = $("#subject").val();
     var message = $("#message").val();
 
    

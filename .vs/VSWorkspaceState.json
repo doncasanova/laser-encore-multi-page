@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\img",
-    "\\img\\images",
     "\\js",
     "\\old stuff",
     "\\php"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\js\\contact-form-script.js",
   "PreviewInSolutionExplorer": false
 }
